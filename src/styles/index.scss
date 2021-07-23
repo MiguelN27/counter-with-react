@@ -11,3 +11,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.blackCard{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 150px;
+}
+.counterNumbers{
+    display: flex;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
+.cards{
+    display: flex;
+    align-content: space-around;
+    justify-content: space-evenly;
+}
